@@ -12,5 +12,5 @@ class Name (Turtle):
         self.goto(state_position)
 
     def type(self, state_name, fontSize):
-        self.write(arg=state_name, align="center", font=('Candara', fontSize, 'normal'))
+        self.write(arg=state_name, align="center", font=('candara', fontSize, 'normal'))
 
