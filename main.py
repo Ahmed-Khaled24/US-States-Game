@@ -23,7 +23,7 @@ while game_on:
     try:
         user_ans = turtle.textinput(title=f"{score} / 50 Correct.",
                                     prompt="Enter a name of state or [E for exit]: ").lower()
-    except:
+    except AttributeError:
         # In case the user click cancel in the prompt.
         game_on = False
         break
