@@ -1,5 +1,9 @@
-# US-States-Game
+## US States Game
 
-Python GUI game that let you type the name of US states and if the name is correct it appears on the map.
+A simple 2D game that tests your knowledge about US states.
 
-### [**Try it online**](https://replit.com/@AhmedKhaled241/US-States-Game#main.py)
+### How to try the game:
+
+- Download the code and run it but you should install pandas module to run the game.
+- Downlad the compiled version.
+- [Try it online](https://replit.com/@AhmedKhaled241/US-States-Game#main.py).
